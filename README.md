@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Higuera</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
-
-- 👨‍💻 Some of my projects are available at [https://portafolio-web-diego-higuera.vercel.app/](https://portafolio-web-diego-higuera.vercel.app/)
-
-- 📫 How to reach me:  **dhiguera09@gmail.com**
+<strong align="center">A passionate frontend developer from Colombia</strong>
+<strong align="left">👨‍💻 Some of my projects are available at [https://portafolio-web-diego-higuera.vercel.app/]</strong>(https://portafolio-web-diego-higuera.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
